@@ -1,6 +1,6 @@
 module RomanianValidators
   def self.available_validators
-    %w(cif cnp iban bic)
+    %w(cif cnp nif iban bic)
   end
 
   available_validators.each do |validator_name|

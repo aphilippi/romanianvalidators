@@ -6,6 +6,7 @@ Validators for:
   * Cod de identificare fiscală (CIF) and
   * IBAN (only Romanian format as published by Romanian National Bank).
   * BIC
+  * Numar de Identificare Fiscala (NIF)
 
 Extracted from [openapi.ro](https://openapi.ro), business APIs for Romanian developers.
 Includes `ActiveModel` validators.

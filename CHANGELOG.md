@@ -1,3 +1,6 @@
+### 0.1.7 (2023-04-26)
+ * add NIF validation
+
 ### 0.1.6 (2014-12-16)
  * bugfix for CNP validation
 
